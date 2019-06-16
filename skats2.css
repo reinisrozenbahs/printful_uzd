@@ -1,0 +1,182 @@
+#div2
+{
+    margin-top: 5%;
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    color: rgb(91, 196, 125);
+}
+
+#newrec
+{
+   position: fixed;
+    bottom: 5px;
+    left: 5px;
+    width: 14%;
+    height:10%;
+    padding: none;
+    margin: none;
+    border-radius: 10px;
+    border-width: 4px;
+    border-color: rgb(91, 196, 125);
+    background-color: white;
+    font-size: 25px;
+    color: rgb(91, 196, 125);
+    
+}
+
+#newrec:hover
+{
+    background-color: darkgreen;
+    position: fixed;
+    bottom: 5px;
+    left: 5px;
+    width: 14%;
+    height:10%;
+    padding: none;
+    margin: none;
+    border-radius: 10px;
+    border-width: 4px;
+    border-color: rgb(91, 196, 125);
+    background-color: lightgray;
+    font-size: 25px;
+    color: rgb(91, 196, 125);
+    
+}
+
+.check
+{
+    width: 10%;
+    height: 10%;
+    margin: none;
+    border: 1px solid black;
+    padding: 0px;
+}
+#att1
+{
+    width: 70px;
+    height: 70px;
+}
+.ir
+{
+    width: 25%;
+    height:30px;
+    padding: none;
+    margin: none;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+    background-color: white;
+    font-size: 25px;
+    position: relative;
+    left:2px;
+    color: rgb(91, 196, 125);
+}
+.nav
+{
+    width: 25%;
+    height:30px;
+    padding: none;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: none;
+    color: white;
+    background-color: white;
+    font-size: 25px;
+    position: relative;
+    left:2px;
+    color: gray;
+}
+.ir:hover
+{
+    background-color: lightgray;
+        border-color: lightgray;
+}
+.nav:hover
+{
+    background-color: lightgray;
+        border-color: lightgray;
+}
+
+.submit
+{
+    width: 25%;
+    height:35px;
+    padding: none;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(91, 196, 125);
+    margin: 1px 1px 1px;
+    color: white;
+    background-color: white;
+    font-size: 25px;
+    position: relative;
+    left:2px;
+    color: darkgray;
+    text-align: left;
+}
+
+ form
+        {
+            border-style: solid;
+            border-width: 1px;
+            width: 70%;
+            
+            position: relative;
+            left: 15%;
+            margin-top: 40px;
+            margin-right: 0px;
+            margin-left: 0px;
+            
+        }
+#div1
+{
+    background-color: rgb(91, 196, 125);
+}
+input[name="laiks"]
+        {
+            border: none;
+            text-align: right;
+            width: 70%;
+            margin: none;
+            font-size: 200%;
+            background-color: rgb(91, 196, 125);
+            
+}
+
+
+.virsraksts
+        {
+            border: none;
+            font-size: 40px;
+            width: 100%;
+            height: 60px;
+            margin: 0px;
+}
+
+        textarea {resize: none;}
+ 
+    
+.apraksts
+        {
+            border: none;
+            width: 100%;
+            border-width: 0px;
+            font-size: 25px;
+            margin: none;
+            
+        }
+
+            input[value="Labot"]
+        {
+            text-align: center;
+            width: 25%;;
+            margin: none;
+            font-size: 30px;
+            
+        }
+        
+        #izvatt
+{
+    width: 20px;
+}   

@@ -1,0 +1,91 @@
+body
+        {
+            background-color: white;
+            
+        }
+       div, table{
+           width: 70%;
+           position: relative;
+           left: 15%;          
+}
+
+        #a
+{
+    
+    background-color:rgb(91, 196, 125); 
+    color: white;
+    font-size: 50px;
+    border-width: 10px;
+    margin-top: 50px;
+    
+}
+.mala
+{
+    width: 15%;
+
+}
+#to
+{
+          text-align: center;
+}
+
+    #back
+{
+    width: 35px;
+    text-align: left;
+}
+        form
+        {
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+        left:15%;
+        text-align: left;
+        font-size: 30px;
+        background-color: ghostwhite;
+        }
+        
+        input, textarea
+        {
+            padding: 10px;
+            font-size: 30px;
+            border-radius: 10px;
+            border-width: 1px;
+            border-style: solid;
+        }
+        name2
+        {
+            margin: 0px;
+            position: relative;
+            left: 2%;
+        }
+        .virsraksts
+        {
+            width: 96%;
+            position: relative;
+            left: 2%;
+        }        
+        .apraksts
+        {
+            height: 180px;
+            width: 96%;
+            resize: none;
+            position: relative;
+            left: 2%;
+        }
+        .submit
+        {
+            position:relative;
+            left: 2%;
+            width: 25%;
+            background-color: white;
+            
+        }
+.delete
+{
+    position:relative;
+            left: 52%;
+            width: 20%;
+            background-color: white;
+}
+   
